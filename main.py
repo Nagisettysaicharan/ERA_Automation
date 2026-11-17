@@ -6,6 +6,7 @@ def printer(name,password):
     print('Hello')
     print("Bye")
     print("Just added")
+    print("Okay")
 
 if __name__ == "__main__":
     printer(name, password)
